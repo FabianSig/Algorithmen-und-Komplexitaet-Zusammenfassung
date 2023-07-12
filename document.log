@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  11 JUL 2023 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  12 JUL 2023 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,7 +367,7 @@ Package hyperref Info: Link coloring OFF on input line 14.
  [1
 
 {C:/Users/uadytz5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./img//SelectionSort.jpg, id=26, 336.50719pt x 110.66344pt>
+<./img//SelectionSort.jpg, id=34, 336.50719pt x 110.66344pt>
 File: ./img//SelectionSort.jpg Graphic file (type jpg)
 <use ./img//SelectionSort.jpg>
 Package pdftex.def Info: ./img//SelectionSort.jpg  used on input line 22.
@@ -388,39 +388,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
 
  []
 
 [2 <./img//SelectionSort.jpg>]
-<./img//InsertionSort.jpg, id=34, 441.14813pt x 249.43187pt>
+<./img//InsertionSort.jpg, id=42, 441.14813pt x 249.43187pt>
 File: ./img//InsertionSort.jpg Graphic file (type jpg)
 <use ./img//InsertionSort.jpg>
-Package pdftex.def Info: ./img//InsertionSort.jpg  used on input line 49.
+Package pdftex.def Info: ./img//InsertionSort.jpg  used on input line 51.
 (pdftex.def)             Requested size: 220.57352pt x 124.71562pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 [3 <./img//InsertionSort.jpg>]
-<./img//BubbleSort.jpg, id=39, 696.10063pt x 159.09438pt>
+<./img//BubbleSort.jpg, id=47, 696.10063pt x 159.09438pt>
 File: ./img//BubbleSort.jpg Graphic file (type jpg)
 <use ./img//BubbleSort.jpg>
-Package pdftex.def Info: ./img//BubbleSort.jpg  used on input line 70.
+Package pdftex.def Info: ./img//BubbleSort.jpg  used on input line 75.
 (pdftex.def)             Requested size: 348.04947pt x 79.54698pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
@@ -429,27 +439,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
-[4 <./img//BubbleSort.jpg>] (document.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[4 <./img//BubbleSort.jpg>] [5] (document.aux)
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: BF6C0D796C2BBAE0ACA9683CC07CF379;567.
+(rerunfilecheck)             Checksum: 67F15CD9A6579FCA4FDFD75CCCA62075;906.
  ) 
 Here is how much of TeX's memory you used:
- 9952 strings out of 475281
- 161530 string characters out of 2773120
- 515063 words of memory out of 3000000
- 31309 multiletter control sequences out of 15000+600000
+ 9957 strings out of 475281
+ 161586 string characters out of 2773120
+ 518066 words of memory out of 3000000
+ 31311 multiletter control sequences out of 15000+600000
  476391 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,263b,446s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,282b,446s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmmi12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/uadytz5/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (4 pages, 290267 bytes).
+Output written on document.pdf (5 pages, 298347 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 64 words of extra memory for PDF output out of 10000 (max. 10000000)
 
