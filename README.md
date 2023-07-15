@@ -1,1 +1,0 @@
-"# Algorithmen-und-Komplexitaet-Zusammenfassung" 
