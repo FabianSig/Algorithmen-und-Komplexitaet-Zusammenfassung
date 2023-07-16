@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  16 JUL 2023 01:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  16 JUL 2023 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,24 +645,24 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 ) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (C:\Users\uadytz5\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -689,18 +689,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
  (document.out) (document.out)
 \@outlinefile=\write4
 \openout4 = `document.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (C:\Users\uadytz5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (C:\Users\uadytz5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -709,167 +709,195 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/uadytz5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<./img//SelectionSort.jpg, id=65, 336.50719pt x 110.66344pt>
+(document.toc)
+\tf@toc=\write5
+\openout5 = `document.toc'.
+
+ [2]
+<./img//SelectionSort.jpg, id=110, 336.50719pt x 110.66344pt>
 File: ./img//SelectionSort.jpg Graphic file (type jpg)
 <use ./img//SelectionSort.jpg>
-Package pdftex.def Info: ./img//SelectionSort.jpg  used on input line 49.
+Package pdftex.def Info: ./img//SelectionSort.jpg  used on input line 52.
 (pdftex.def)             Requested size: 336.50635pt x 110.66315pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-[2 <./img//SelectionSort.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+[3 <./img//SelectionSort.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
-[3]
-<./img//InsertionSort.jpg, id=79, 441.14813pt x 249.43187pt>
+[4]
+<./img//InsertionSort.jpg, id=122, 441.14813pt x 249.43187pt>
 File: ./img//InsertionSort.jpg Graphic file (type jpg)
 <use ./img//InsertionSort.jpg>
-Package pdftex.def Info: ./img//InsertionSort.jpg  used on input line 89.
+Package pdftex.def Info: ./img//InsertionSort.jpg  used on input line 92.
 (pdftex.def)             Requested size: 220.57352pt x 124.71562pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
-[4 <./img//InsertionSort.jpg>]
-<./img//BubbleSort.jpg, id=84, 696.10063pt x 159.09438pt>
+[5 <./img//InsertionSort.jpg>]
+<./img//BubbleSort.jpg, id=127, 696.10063pt x 159.09438pt>
 File: ./img//BubbleSort.jpg Graphic file (type jpg)
 <use ./img//BubbleSort.jpg>
-Package pdftex.def Info: ./img//BubbleSort.jpg  used on input line 120.
+Package pdftex.def Info: ./img//BubbleSort.jpg  used on input line 123.
 (pdftex.def)             Requested size: 348.04947pt x 79.54698pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
-[5 <./img//BubbleSort.jpg>] [6]
+[6 <./img//BubbleSort.jpg>] [7]
 
-LaTeX Font Warning: Command \Large invalid in math mode on input line 194.
+LaTeX Font Warning: Command \Large invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \ss invalid in math mode on input line 199.
+LaTeX Warning: Command \ss invalid in math mode on input line 202.
 
-[7]
-<./img//KK.jpg, id=98, 653.44125pt x 394.47375pt>
+[8]
+<./img//KK.jpg, id=141, 653.44125pt x 394.47375pt>
 File: ./img//KK.jpg Graphic file (type jpg)
 <use ./img//KK.jpg>
-Package pdftex.def Info: ./img//KK.jpg  used on input line 204.
+Package pdftex.def Info: ./img//KK.jpg  used on input line 231.
 (pdftex.def)             Requested size: 261.37187pt x 157.7867pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 206.
+(hyperref)                removing `math shift' on input line 233.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 206.
+(hyperref)                removing `math shift' on input line 233.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--210
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
+
+ []
+
+[9 <./img//KK.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
-
- []
-
-<./img//Master.jpg, id=99, 434.62375pt x 157.08687pt>
+<./img//Master.jpg, id=146, 434.62375pt x 157.08687pt>
 File: ./img//Master.jpg Graphic file (type jpg)
 <use ./img//Master.jpg>
-Package pdftex.def Info: ./img//Master.jpg  used on input line 225.
+Package pdftex.def Info: ./img//Master.jpg  used on input line 252.
 (pdftex.def)             Requested size: 434.62268pt x 157.08647pt.
 
-Overfull \hbox (44.62268pt too wide) in paragraph at lines 225--226
+Overfull \hbox (44.62268pt too wide) in paragraph at lines 252--253
 [] 
  []
 
-[8 <./img//KK.jpg>] [9 <./img//Master.jpg>] (document.aux)
-Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: D8A24CB5C8D0B50A5E8BFC622D48E2F6;1869.
+[10 <./img//Master.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+[11] [12] [13] (document.aux)
+
+Package rerunfilecheck Warning: File `document.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `document.out':
+(rerunfilecheck)             Before: 188ABE600C7123FDA78166E29C2E85C8;2728
+(rerunfilecheck)             After:  97CA2444F275CD3F60F1934CA3BC91AA;2802.
  ) 
 Here is how much of TeX's memory you used:
- 20686 strings out of 475281
- 395199 string characters out of 2773120
- 715182 words of memory out of 3000000
- 41801 multiletter control sequences out of 15000+600000
- 479606 words of font info for 68 fonts, out of 8000000 for 9000
+ 20710 strings out of 475281
+ 395681 string characters out of 2773120
+ 717197 words of memory out of 3000000
+ 41811 multiletter control sequences out of 15000+600000
+ 480253 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,89p,391b,1345s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,89p,419b,1345s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\uadytz5\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1200.pk><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmmi12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/uadytz5/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/uadytz5/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/uadytz5
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
-s/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/symbols/msbm10.pfb>
-Output written on document.pdf (9 pages, 642383 bytes).
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/uadytz5/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/uadytz5
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Use
+rs/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on document.pdf (13 pages, 682750 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 228 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

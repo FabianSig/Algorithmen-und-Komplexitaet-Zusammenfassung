@@ -7,7 +7,7 @@
 \graphicspath{ {./img/} } 
 \usepackage{amsfonts}
 \usepackage{tikz}
-
+\hypersetup{pdfborder=0 0 0}
 
 \title{Algorithmen und Komplexität Zusammenfassung}
 \author{Fabian Sigmund}
@@ -23,8 +23,11 @@
 	}
 }
 
+
 \begin{document}
 	\maketitle
+	\pagebreak
+	\tableofcontents
 	\pagebreak
 	\section{Sortieralgorithmen (Einfach)}
 	
@@ -199,6 +202,30 @@
 	$Iterationen \ der \ \ddot{a}ußeren \ Schleife =  \lceil \log_{2} n \rceil $
 \end{center}
 \newpage
+
+\section{Sortieren Zusammenfassung}
+
+\textbf{Einfache Verfahren}
+
+\begin{itemize}
+	\item vergleichen jedes Paar von Elementen
+ 	\item bearbeiten in jedem Durchlauf nur ein Element
+	 \item verbessern nicht die Position der anderen Elemente
+	\item $ \mathcal{O}(n^2) $ 
+\end{itemize}
+\textbf{Effiziente Verfahren}
+\begin{itemize}
+	\item Unterschiedliche Ansatze: 
+	\subitem erst grob, dann fein: Quicksort
+	\subitem erst im Kleinen, dann im Großen: Mergesort
+	\subitem spezielle Datenstruktur: Heapsort
+	\item Effizienzgewinn durch
+	\subitem Vermeidung unnotiger Vergleiche
+	\subitem effiziente Nutzung der in einem Durchlauf gesammelten Infos
+	\subitem Verbessern der Position mehrerer Elemente in einem Durchlauf
+	\item $ \mathcal{O}(n\log n) $  (as good as it gets)
+\end{itemize}
+
 \section{Komplexitätsklassen}
 
 \includegraphics[scale=0.4]{KK}
@@ -223,8 +250,43 @@ $ g \sim f: \lim \limits_{x \to \infty} \frac{f(x)}{g(x)} = 1 $ \hfill \break
 \subsection{Master-Theorem}
 
 \includegraphics{Master}
+\newpage
+\section{Bäume}
 
-\section{Heaps}
+
+
+
+
+\subsection{Heaps}
+
+\textbf{Definition: Heap}
+Ein (binarer) Heap ist ein (fast) vollständiger binärer Baum, in dem für jeden Knoten gilt, dass er in einer definierten Ordnungsrelation zu seinen Nachfolgern steht.
+\begin{itemize}
+	\item Max-Heap: Jeder Knoten ist $ \geq $ als seine Nachfolger
+	\item Min-Heap: Jeder Knoten ist $ \leq $ als seine Nachfolger
+\end{itemize}
+
+Fast vollständiger Binärbaum:
+\begin{itemize}
+	\item Alle Ebenen bis auf die unterste sind vollständig
+	\item Die unterste Ebene ist von links durchgehend besetzt
+\end{itemize}
+
+\subsubsection{Wichtige Operationen auf Heaps}
+
+\textbf{Im folgenden Beispiel anhand von Max-Heaps, für Min-Heaps gelten die Aussagen analog}
+\newline
+
+\textbf{heapify}: Stelle die Heap-Eigenschaft eines fast vollständigen Binärbaums her 
+\begin{itemize}
+	\item bubble up: Lasse einen großen Knoten nach oben steigen
+	\item bubble down: Lasse einen kleinen Knoten nach unten sinken
+\end{itemize}
+\textbf{insert}: Füge ein neues Element in den Heap ein \newline
+\newline
+
+
+
 
 \begin{tikzpicture}[heap, sibling distance=70mm]
 	\node {12}
@@ -249,7 +311,39 @@ $ g \sim f: \lim \limits_{x \to \infty} \frac{f(x)}{g(x)} = 1 $ \hfill \break
 	child{node{9}}
 	;
 \end{tikzpicture}
+\newpage
+\subsection{Binäre Suchbäume}
 
+\textbf{Definition: Binärer Suchbaum} \newline
+Eine Binärer Suchbaum ist ein Binärbaum mit folgenden Eigenschaften:
+\begin{itemize}
+	\item Die Knoten des Baums sind mit Schlüsseln aus einer geordneten Menge K beschriftet
+	\item Für jeden Knoten N gilt:
+	\subitem \small{Alle Schlüssel im linken Teilbaum von N sind kleiner als der Schlüssel von N}
+	\subitem \small{Alle Schlüssel im rechten Teilbaum von N sind größer als der Schlüssel von N}
+\end{itemize}
+
+\subsubsection{Wichtige Operationen auf binären Suchbäumen}
+
+\textbf{insert}:
+\begin{itemize}
+	\item Suche nach \textit{K}
+	\item Falls \textit{K} nicht im Baum ist, setze es an der Stelle ein, an der es gefunden worden wäre
+\end{itemize}
+
+
+\textbf{delete}:
+Fallunterscheidung:
+\begin{itemize}
+	\item Fall 1: Knoten \textit{K} hat keinen Nachfolger
+	\subitem Lösung: Schneide Knoten ab
+	\item Fall 2: Knoten \textit{K} hat einen Nachfolger
+	\subitem Lösung: Ersetze Knoten durch seinen einzigen Nachfolger
+	\item Fall 3: Knoten \textit{K} hat zwei Nachfolger
+	\subitem Suche größten Knoten \textit{G} im linken Teilbaum
+	\subitem Tausche \textit{G} und \textit{K}
+	\subitem Lösche \textit{K} im linken Teilbaum von (nun) G
+\end{itemize}
 
 
 \end{document}
