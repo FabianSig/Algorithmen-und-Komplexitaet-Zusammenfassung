@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  16 JUL 2023 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  16 JUL 2023 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,7 +714,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `document.toc'.
 
  [2]
-<./img//SelectionSort.jpg, id=110, 336.50719pt x 110.66344pt>
+<./img//SelectionSort.jpg, id=115, 336.50719pt x 110.66344pt>
 File: ./img//SelectionSort.jpg Graphic file (type jpg)
 <use ./img//SelectionSort.jpg>
 Package pdftex.def Info: ./img//SelectionSort.jpg  used on input line 52.
@@ -745,7 +745,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--67
  []
 
 [4]
-<./img//InsertionSort.jpg, id=122, 441.14813pt x 249.43187pt>
+<./img//InsertionSort.jpg, id=127, 441.14813pt x 249.43187pt>
 File: ./img//InsertionSort.jpg Graphic file (type jpg)
 <use ./img//InsertionSort.jpg>
 Package pdftex.def Info: ./img//InsertionSort.jpg  used on input line 92.
@@ -771,7 +771,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
  []
 
 [5 <./img//InsertionSort.jpg>]
-<./img//BubbleSort.jpg, id=127, 696.10063pt x 159.09438pt>
+<./img//BubbleSort.jpg, id=132, 696.10063pt x 159.09438pt>
 File: ./img//BubbleSort.jpg Graphic file (type jpg)
 <use ./img//BubbleSort.jpg>
 Package pdftex.def Info: ./img//BubbleSort.jpg  used on input line 123.
@@ -804,7 +804,7 @@ LaTeX Font Warning: Command \Large invalid in math mode on input line 197.
 LaTeX Warning: Command \ss invalid in math mode on input line 202.
 
 [8]
-<./img//KK.jpg, id=141, 653.44125pt x 394.47375pt>
+<./img//KK.jpg, id=146, 653.44125pt x 394.47375pt>
 File: ./img//KK.jpg Graphic file (type jpg)
 <use ./img//KK.jpg>
 Package pdftex.def Info: ./img//KK.jpg  used on input line 231.
@@ -838,7 +838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--249
 
  []
 
-<./img//Master.jpg, id=146, 434.62375pt x 157.08687pt>
+<./img//Master.jpg, id=151, 434.62375pt x 157.08687pt>
 File: ./img//Master.jpg Graphic file (type jpg)
 <use ./img//Master.jpg>
 Package pdftex.def Info: ./img//Master.jpg  used on input line 252.
@@ -863,21 +863,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
-[11] [12] [13] (document.aux)
-
-Package rerunfilecheck Warning: File `document.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `document.out':
-(rerunfilecheck)             Before: 188ABE600C7123FDA78166E29C2E85C8;2728
-(rerunfilecheck)             After:  97CA2444F275CD3F60F1934CA3BC91AA;2802.
+[11] [12] [13] [14] (document.aux)
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 4C55F48DA5AD7BE491F9C823C4B191FE;2942.
  ) 
 Here is how much of TeX's memory you used:
- 20710 strings out of 475281
- 395681 string characters out of 2773120
- 717197 words of memory out of 3000000
- 41811 multiletter control sequences out of 15000+600000
+ 20713 strings out of 475281
+ 395748 string characters out of 2773120
+ 717192 words of memory out of 3000000
+ 41812 multiletter control sequences out of 15000+600000
  480253 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,89p,419b,1345s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -895,9 +889,9 @@ m/cmsy10.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb><C:/Users/uadytz5/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on document.pdf (13 pages, 682750 bytes).
+Output written on document.pdf (14 pages, 683946 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 
